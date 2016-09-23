@@ -13,5 +13,5 @@ import dagger.Module;
         }
 )
 public class Dagger1Module {
-
+// Application providers
 }
